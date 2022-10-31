@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        /*
+        #  = Id
+        .  = Class
+        :  = pseudo-class
+        :: = pseudo-element
+        >  = children
+        */
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgb(122, 122, 122);
+
+        }
+        a {
+            color: rgb(0, 196, 8);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited{
+            color: rgb(0, 146, 8);
+        }
+
+        a:hover{
+            color: rgb(255, 238, 0);
+            text-decoration: underline;
+        }
+
+        a:active{
+            color: rgb(0, 102, 255);
+        }
+
+        .special::before{
+            content: "-->";
+        }
+
+        .special::after{
+            content: "<--";
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Personalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/ViniciusLuz99" >Repositorio Github</a></li>
+        <li><a href="https://www.youtube.com/" class="special">Youtube</a></li>
+        <li><a href="https://www.cursoemvideo.com/">Site do cursoemvideo</a>
+        </li>
+    </ul>
+</body>
+</html>

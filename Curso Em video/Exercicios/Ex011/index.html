@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML5</title>
+</head>
+<body>
+    <h1>Midias em HTML5</h1>
+    <h2>Imagens Flexiveis</h2>
+     <p>Aumente e diminua o tamanho do navegador para ver a diferença</p>
+    <picture>
+        <source media="(max-width:750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width:1050px)"srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem Flexivel">
+    </picture>
+    <!--Fim imagens-->
+    <h2>Reproduzindo audio</h2>
+    <audio preload="metadata" controls loop>
+        <source src="media/Cattle-Telecasted.mp3" type="audio/mpeg">
+        <p>Seu navegador não suporta mp3 <a href="media/Cattle-Telecasted.mp3" download="Cattle-Telecasted.mp3" type="audio/mpeg"></a></p>
+     
+    </audio>
+</body>
+</html>
