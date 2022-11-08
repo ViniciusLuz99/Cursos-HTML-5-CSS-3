@@ -1,1 +1,68 @@
-@charset "UTF-8"
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+html, body {
+    min-height: 100vh;
+    background-color: darkgrey;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header > hq {
+    padding-top: 50px;
+    font-variant: small-caps; /*Fonte em maiusculas, mas com as primeiras maiores do que as outras */
+}
+
+head > p {
+    padding-bottom: 50px;
+}
+
+header a, footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+header a:hover, footer a:hover {
+    text-decoration: underline;
+}
+
+section {
+    /* view hight, faz com que ganhe 10% da altura, ele tambem se adapta */
+    padding-top: 10vh; 
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+}
+
+section.normal {
+    background: white;
+    color: black;
+}
+
+section.imagem {
+    background: rgb(22, 22, 22);
+    color: white;
+}
+
+section.imagem > p {
+    width: 400px;
+    background: rgb(16, 16, 16);
+}
+
+/* footer */
+footer {
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    
+}
