@@ -13,6 +13,7 @@
         table {
             width: 500px;
             border-collapse: collapse;
+            position: relative;
         }
 
         td, th {
@@ -26,6 +27,18 @@
             padding: 10px;
             background-color: lightgrey;
         }
+
+        thead, tfoot {
+            background-color: gray;
+            color: white;
+        }
+       /*Efeito Cabeçalho fixo em tabelas grandes*/
+        thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: gray;
+        }
+
         /*Efeito "zebrado" 2n, odd ou even*/
         tbody > tr:nth-child(odd) {  
             background-color: white;
@@ -39,10 +52,7 @@
             text-align: right;
         }
 
-        thead, tfoot {
-            background-color: gray;
-            color: white;
-        }
+        
     </style>
 </head>
 <body>
