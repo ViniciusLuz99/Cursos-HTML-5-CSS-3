@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabelas responsivas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+        }
+
+        caption {
+            font-size: 1.3em;
+            font-weight: bolder;
+            padding: 18px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+        }
+
+        tr:nth-child(even) {
+            background-color: rgb(207, 207, 207);
+        }
+
+        div#conteiner { /*Adiciona Rolagem lateral só na tabela*/
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Tabelas em telas pequenas</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quidem nobis, repudiandae doloribus nisi, at neque optio dolore molestiae illum facilis vel nam omnis nihil corrupti amet placeat dolorum hic.</p>
+    <div id="conteiner">
+        <table>
+            <caption>Tabelas responsivas</caption>
+            <thead>
+                <tr>
+                    <th>Produto</th>
+                    <th>Jan</th>
+                    <th>Fev</th>
+                    <th>Mar</th>
+                    <th>Abr</th>
+                    <th>Mai</th>
+                    <th>Jun</th>
+                    <th>Jul</th>
+                    <th>Ago</th>
+                    <th>Set</th>
+                    <th>Out</th>
+                    <th>Nov</th>
+                    <th>Dez</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Tv 55</td>
+                    <td>12</td>
+                    <td>32</td>
+                    <td>12</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>1</td>
+                    <td>3543</td>
+                    <td>32</td>
+                    <td>34</td>
+                    <td>55</td>
+                    <td>421</td>
+                    <td>4123</td>
+                </tr>
+                <tr>
+                    <td>Pc gamer</td>
+                    <td>2</td>
+                    <td>2</td>
+                    <td>19</td>
+                    <td>46</td>
+                    <td>38</td>
+                    <td>18</td>
+                    <td>43</td>
+                    <td>22</td>
+                    <td>44</td>
+                    <td>65</td>
+                    <td>721</td>
+                    <td>1123</td>
+                </tr>
+                <tr>
+                    <td>Playstation 5</td>
+                    <td>122</td>
+                    <td>312</td>
+                    <td>312</td>
+                    <td>454</td>
+                    <td>63</td>
+                    <td>1</td>
+                    <td>43</td>
+                    <td>832</td>
+                    <td>84</td>
+                    <td>05</td>
+                    <td>'21</td>
+                    <td>523</td>
+                </tr>
+                <tr>
+                    <td>Tv 35</td>
+                    <td>12</td>
+                    <td>32</td>
+                    <td>12</td>
+                    <td>4</td>
+                    <td>3</td>
+                    <td>1</td>
+                    <td>3543</td>
+                    <td>32</td>
+                    <td>34</td>
+                    <td>55</td>
+                    <td>421</td>
+                    <td>4123</td>
+                </tr>
+                <tr>
+                    <td>Tv 75</td>
+                    <td>122</td>
+                    <td>312</td>
+                    <td>312</td>
+                    <td>454</td>
+                    <td>63</td>
+                    <td>1</td>
+                    <td>43</td>
+                    <td>832</td>
+                    <td>84</td>
+                    <td>05</td>
+                    <td>'21</td>
+                    <td>523</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
