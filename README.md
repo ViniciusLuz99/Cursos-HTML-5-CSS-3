@@ -31,6 +31,6 @@ O curso de HTML/CSS do FreeCodeCamp é um curso online e gratuito que ensina as 
 - [Veja o resultado aqui](https://viniciusluz99.github.io/Project-Survey-Form/)
 - Descrição: Um formulário de pesquisa que coleta feedback do usuário usando elementos de formulário HTML.
 
-###CSS Flexbox Gallery
-- [Veja o resultado aqui](https://github.com/ViniciusLuz99/Cursos-HTML-5-CSS-3/tree/main/FreeCodeCamp/7-Photo%20Gallery/index.html)
+### CSS Flexbox Gallery
+- [Veja o resultado aqui](https://viniciusluz99.github.io/ViniciusLuz99/Cursos-HTML-5-CSS-3/tree/main/FreeCodeCamp/7-Photo%20Gallery/index.html)
 - Descrição: Uma galeria de imagens criada com CSS Flexbox para exibir imagens de forma responsiva e organizada em uma grade.
