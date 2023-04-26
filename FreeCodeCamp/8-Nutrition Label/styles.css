@@ -1,7 +1,3 @@
-body {
-  font-family: "Open Sans", sans-serif;
-}
-
 * {
   box-sizing: border-box;
 }
@@ -10,17 +6,21 @@ html {
   font-size: 16px;
 }
 
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
 .label {
+  border: 2px solid black;
   width: 270px;
   margin: 20px auto;
   padding: 0 7px;
-  border: 2px solid black;
 }
 
 header h1 {
   text-align: center;
-  letter-spacing: 0.15px;
   margin: -4px 0;
+  letter-spacing: 0.15px;
 }
 
 p {
@@ -28,12 +28,14 @@ p {
   display: flex;
   justify-content: space-between;
 }
-.bold {
-  font-weight: 800;
-}
+
 .divider {
   border-bottom: 1px solid #888989;
   margin: 2px 0;
+}
+
+.bold {
+  font-weight: 800;
 }
 
 .large {
@@ -65,18 +67,36 @@ p {
 }
 
 .left-container p {
+  margin: -5px -2px;
   font-size: 2em;
   font-weight: 700;
-  margin: -5px -2px;
 }
 
 .calories-info span {
+  margin: -7px -2px;
   font-size: 2.4em;
   font-weight: 700;
-  margin: -7px -2px;
 }
 
 .right {
-  display: flex;
   justify-content: flex-end;
+}
+
+.indent {
+  margin-left: 1em;
+}
+
+.double-indent {
+  margin-left: 2em;
+}
+
+.daily-value p:not(.no-divider) {
+  border-bottom: 1px solid #888989;
+}
+
+.note {
+  font-size: 0.6rem;
+  margin: 5px 0;
+  padding: 0 8px;
+  text-indent: -8px;
 }
