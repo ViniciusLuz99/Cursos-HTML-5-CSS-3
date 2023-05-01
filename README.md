@@ -34,3 +34,8 @@ O curso de HTML/CSS do FreeCodeCamp é um curso online e gratuito que ensina as 
 ### CSS Flexbox Gallery
 - [Veja o resultado aqui](https://viniciusluz99.github.io/Cursos-HTML-5-CSS-3/FreeCodeCamp/7-Photo%20Gallery/index.html)
 - Descrição: Uma galeria de imagens criada com CSS Flexbox para exibir imagens de forma responsiva e organizada em uma grade.
+
+### CSS Accessibility Quiz
+- [Veja o resultado aqui](https://viniciusluz99.github.io/Cursos-HTML-5-CSS-3/FreeCodeCamp/9-Accessibility%20Quiz/index.html)
+- Descrição: Quiz interativo que ensina conceitos de acessibilidade em páginas web.
+Inclui ferramentas como atalhos de teclado, atributos ARIA e melhores práticas de design.
