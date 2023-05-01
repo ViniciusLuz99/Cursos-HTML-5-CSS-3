@@ -17,7 +17,7 @@ Algumas das principais atividades realizadas foram:
 ## HTML/CSS - FreeCodeCamp
 
 O curso de HTML/CSS do FreeCodeCamp é um curso online e gratuito que ensina as principais técnicas e conceitos dessas linguagens. Algumas das principais atividades realizadas foram:
-✅Certification Projects
+-✅Certification Projects
 - [Survey Form✅](https://viniciusluz99.github.io/Project-Survey-Form/)
 - [Tribute Page✅](#)
 - [Product Landing Page✅](#)
