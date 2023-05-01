@@ -20,10 +20,10 @@ O curso de HTML/CSS do FreeCodeCamp é um curso online e gratuito que ensina as 
 
 ### ✅Projetos para Certificado⬇️:
 - [Survey Form✅](https://viniciusluz99.github.io/Project-Survey-Form/)
-- [Tribute Page✅](#)
-- [Product Landing Page✅](#)
-- [Technical Documentation Page✅](#)
-- [Personal Portfolio Webpage✅](#)
+- [Tribute Page🟦](#)
+- [Product Landing Page🟥](#)
+- [Technical Documentation Page🟥](#)
+- [Personal Portfolio Webpage🟥](#)
 
 ### 🟢Todos os Projetos do curso⬇️:
 
