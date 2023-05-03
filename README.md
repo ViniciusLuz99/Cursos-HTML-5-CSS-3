@@ -48,3 +48,8 @@ O curso de HTML/CSS do FreeCodeCamp é um curso online e gratuito que ensina as 
 - [Veja o resultado aqui](https://viniciusluz99.github.io/Cursos-HTML-5-CSS-3/FreeCodeCamp/9-Accessibility%20Quiz/index.html)
 - Descrição: Quiz interativo que ensina conceitos de acessibilidade em páginas web.
 Inclui ferramentas como atalhos de teclado, atributos ARIA e melhores práticas de design.
+
+### Tribute Page
+✅Certification Project
+- [Veja o resultado aqui](https://viniciusluz99.github.io/Project-Tribute-Page/)
+- Descrição: Esta Página de Homenagem foi criada como parte do currículo do FreeCodeCamp. O projeto foi criado para mostrar minhas habilidades em usar HTML5 e CSS3 para construir uma página que homenageia uma pessoa ou entidade.
