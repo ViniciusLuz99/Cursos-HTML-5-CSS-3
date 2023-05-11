@@ -14,9 +14,9 @@ Algumas das principais atividades realizadas foram:
 - **Projeto Prático: Projeto Cordel:** criação de um site Simples utilizando HTML e CSS, com layout responsivo e efeito parallax [Veja o resultado aqui](https://viniciusluz99.github.io/Projeto-cordel/).
   .
 
-## HTML/CSS - FreeCodeCamp
+## Responsive Web Design - FreeCodeCamp
 
-O curso de HTML/CSS do FreeCodeCamp é um curso online e gratuito que ensina as principais técnicas e conceitos dessas linguagens. Algumas das principais atividades realizadas foram:
+O curso de Responsive Web Design do FreeCodeCamp é um curso online e gratuito que ensina as principais técnicas e conceitos dessas linguagens. Algumas das principais atividades realizadas foram:
 
 ### ✅Projetos para Certificado⬇️:
 - [Survey Form✅](https://viniciusluz99.github.io/Project-Survey-Form/)
@@ -53,3 +53,15 @@ Inclui ferramentas como atalhos de teclado, atributos ARIA e melhores práticas 
 ✅Certification Project
 - [Veja o resultado aqui](https://viniciusluz99.github.io/Project-Tribute-Page/)
 - Descrição: Esta Página de Homenagem foi criada como parte do currículo do FreeCodeCamp. O projeto foi criado para mostrar minhas habilidades em usar HTML5 e CSS3 para construir uma página que homenageia uma pessoa ou entidade.
+
+### Balance Sheet
+- [Veja o resultado aqui](#)
+- Descrição: Este projeto envolve a criação de uma planilha de balanço que mostra a soma total de ativos, passivos e patrimônio líquido. 
+
+### Picasso Painting
+- [Veja o resultado aqui](#)
+- Descrição: Página web que exibe uma imagem da pintura de Pablo Picasso. O objetivo é demonstrar habilidades em HTML e CSS e capacidade de trabalhar com imagens e layouts responsivos.
+
+### Piano Project
+- [Veja o resultado aqui](#)
+- Descrição: CSS e Responsive Design para codificar um piano que ficará ótimo em telas de diferentes tamanhos. Usando media queries e pseudo seletores.
