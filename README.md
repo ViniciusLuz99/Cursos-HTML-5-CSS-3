@@ -21,8 +21,8 @@ O curso de Responsive Web Design do FreeCodeCamp é um curso online e gratuito q
 ### ✅Projetos para Certificado⬇️:
 - [Survey Form✅](https://viniciusluz99.github.io/Project-Survey-Form/)
 - [Tribute Page✅](https://viniciusluz99.github.io/Project-Tribute-Page/)
+- [Technical Documentation Page#️✅](https://viniciusluz99.github.io/Project-Technical-Documentation/)
 - [Product Landing Page#️⃣](#)
-- [Technical Documentation Page#️⃣](#)
 - [Personal Portfolio Webpage#️⃣](#)
 
 #### Survey Form
